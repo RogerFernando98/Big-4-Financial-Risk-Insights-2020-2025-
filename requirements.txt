@@ -1,0 +1,18 @@
+# ---------------------------
+# Dependencias mínimas
+# ---------------------------
+
+# Manejo de datos tabulares (dataframes)
+pandas
+
+# Visualización básica de gráficos
+matplotlib
+plotly
+# Visualización avanzada y estética (basada en matplotlib)
+seaborn
+
+# Lectura y escritura de archivos Excel (.xlsx)
+openpyxl
+
+# Cálculos numéricos y soporte a pandas
+numpy
