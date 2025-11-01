@@ -4,6 +4,8 @@ Usabilidad de la base de datos: 7.06
 
 Tamaño base de datos: 4.19 MB
 
+Origen base de datos: https://www.kaggle.com/datasets/miadul/personal-finance-ml-dataset/code
+
 ---
 
 ## **Contexto**
