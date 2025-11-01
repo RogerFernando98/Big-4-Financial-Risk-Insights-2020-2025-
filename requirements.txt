@@ -5,14 +5,29 @@
 # Manejo de datos tabulares (dataframes)
 pandas
 
-# Visualización básica de gráficos
-matplotlib
-plotly
-# Visualización avanzada y estética (basada en matplotlib)
-seaborn
+# Cálculos numéricos y soporte a pandas
+numpy
 
 # Lectura y escritura de archivos Excel (.xlsx)
 openpyxl
 
-# Cálculos numéricos y soporte a pandas
-numpy
+# Visualización básica de gráficos
+matplotlib
+plotly
+
+# Visualización avanzada y estética (basada en matplotlib)
+seaborn
+
+# Mapas interactivos (EDA geográfico)
+folium
+
+# Nube de palabras
+wordcloud
+
+# Ejecución de notebooks (recomendado)
+jupyter
+
+# ----------------------------------------------------------
+# Nota: el módulo "src.support" es parte del repositorio local
+# (ubicado en la carpeta src/) y no se instala vía pip.
+# ----------------------------------------------------------
