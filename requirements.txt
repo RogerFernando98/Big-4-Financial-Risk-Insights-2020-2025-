@@ -26,8 +26,3 @@ wordcloud
 
 # Ejecución de notebooks (recomendado)
 jupyter
-
-# ----------------------------------------------------------
-# Nota: el módulo "src.support" es parte del repositorio local
-# (ubicado en la carpeta src/) y no se instala vía pip.
-# ----------------------------------------------------------
