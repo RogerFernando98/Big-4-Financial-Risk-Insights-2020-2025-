@@ -12,7 +12,7 @@ Origen base de datos: https://www.kaggle.com/datasets/miadul/personal-finance-ml
 
 En un mundo donde las decisiones financieras personales impactan directamente en la estabilidad económica de los hogares, comprender los patrones de comportamiento financiero es fundamental. Sin embargo, los datos reales sobre finanzas personales suelen ser sensibles y difíciles de obtener debido a su naturaleza privada.
 
-El Personal Finance ML Dataset ha sido creado para simular de forma sintética (2020 - 2024), pero realista, el comportamiento financiero de personas de diferentes regiones, niveles de ingreso y situaciones crediticias. Este conjunto de datos reproduce de manera real las dinámicas del mundo real, permitiendo analizar hábitos financieros y estudiar la relación entre ingresos, gastos y deudas.
+El Personal Finance ML Dataset ha sido creado para simular de forma sintética (2021 - 2025), pero realista, el comportamiento financiero de personas de diferentes regiones, niveles de ingreso y situaciones crediticias. Este conjunto de datos reproduce de manera real las dinámicas del mundo real, permitiendo analizar hábitos financieros y estudiar la relación entre ingresos, gastos y deudas.
 
 ---
 
