@@ -187,4 +187,4 @@ Las métricas financieras principales se mantienen consistentes, lo que sugiere 
 
 Proyecto desarrollado por Roger Fernando Arroyo Herrera como práctica de limpieza de datos y desarrollo exhaustivo de EDA en Python. Todo esto no hubiese sido posible sin la supervición, guía y motivación de dos de los grandes prodijios de la Ciencia de datos, Jean Charles y Ana García.
 	
-•	 LinkedIn: www.linkedin.com/in/f-arroyo-herrera
+•	 LinkedIn: [Contáctame por LinkedIn](www.linkedin.com/in/f-arroyo-herrera)
